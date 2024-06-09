@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/CECSFileManager/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/CECSFileManager/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CECSFileManager 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CECSFileManager 1.0-SNAPSHOT API'
+com.mycompany.cecsfilemanager
+D:\CECSFileManager\src\main\java = 1691389173795
+D:\CECSFileManager\target\site\apidocs\allclasses-index.html = 1691392295427
+D:\CECSFileManager\target\site\apidocs\allpackages-index.html = 1691392295429
+D:\CECSFileManager\target\site\apidocs\element-list = 1691392295200
+D:\CECSFileManager\target\site\apidocs\help-doc.html = 1691392295478
+D:\CECSFileManager\target\site\apidocs\index-all.html = 1691392295450
+D:\CECSFileManager\target\site\apidocs\index.html = 1691392295471
+D:\CECSFileManager\target\site\apidocs\jquery-ui.overrides.css = 1691392295501
+D:\CECSFileManager\target\site\apidocs\member-search-index.js = 1691392295435
+D:\CECSFileManager\target\site\apidocs\module-search-index.js = 1691392295431
+D:\CECSFileManager\target\site\apidocs\overview-tree.html = 1691392295402
+D:\CECSFileManager\target\site\apidocs\package-search-index.js = 1691392295432
+D:\CECSFileManager\target\site\apidocs\script.js = 1691392295482
+D:\CECSFileManager\target\site\apidocs\search.js = 1691392295484
+D:\CECSFileManager\target\site\apidocs\serialized-form.html = 1691392295365
+D:\CECSFileManager\target\site\apidocs\stylesheet.css = 1691392295481
+D:\CECSFileManager\target\site\apidocs\tag-search-index.js = 1691392295436
+D:\CECSFileManager\target\site\apidocs\type-search-index.js = 1691392295434
